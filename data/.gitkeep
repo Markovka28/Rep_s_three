@@ -3,3 +3,5 @@
 
 # Но оставляем файл .gitkeep
 !/data/.gitkeep
+
+log.txt*
